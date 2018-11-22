@@ -24,8 +24,6 @@ public class PhonePartitioner extends Partitioner<Text, FlowBean>
         phoneDict.put("138",2);
         phoneDict.put("139",3);
     }
-
-
     /**
      * 获取分区的区号
      * @param text
